@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "9HB+FPtiF/g=",
+  "success": true,
+  "projectFilePath": "/Users/marlon/Documents/projects/ExamenU1POO/ExamenU1POO.csproj",
+  "expectedPackageFiles": [
+    "/Users/marlon/.nuget/packages/microsoft.aspnetcore.openapi/10.0.3/microsoft.aspnetcore.openapi.10.0.3.nupkg.sha512",
+    "/Users/marlon/.nuget/packages/microsoft.openapi/2.0.0/microsoft.openapi.2.0.0.nupkg.sha512",
+    "/Users/marlon/.nuget/packages/scalar.aspnetcore/2.12.46/scalar.aspnetcore.2.12.46.nupkg.sha512"
+  ],
+  "logs": []
+}
